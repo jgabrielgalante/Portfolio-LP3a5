@@ -3,7 +3,7 @@ package miltin.threads.produtorConsumidor;
 public class Consumer extends Thread{
 	Number number;
 	
-	Consumidor(Number number) {
+	Consumer(Number number) {
 		this.number = number;
 	}
 	
