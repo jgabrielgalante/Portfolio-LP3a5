@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Tarefa 3 - Programação Concorrente"/>
+	<classpathentry kind="src" path="Tarefa 4 - Programação Funcional"/>
+	<classpathentry kind="src" path="Tarefa 5 - Optional e Exceptions"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
