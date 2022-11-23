@@ -2,6 +2,8 @@
 
 Portfólio LP3A5 - João Gabriel Galante
 ---
+[Link do Notion](https://wiggly-wind-aee.notion.site/LP3A5-bb1a602f1a2c41bb8b7f1d8aff9c50a5)
+---
 
 [Tarefa 2 - Problema do Produtor Consumidor](https://github.com/jgabrielgalante/Portfolio-LP3a5/tree/main/lp3a5%20-%20main/2_Produtor_Consumidor)
 
