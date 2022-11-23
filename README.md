@@ -1,7 +1,4 @@
 # LP3A5
-## Projetos da aula de LP3A5
-
----
 
 Portfólio LP3A5 - João Gabriel Galante
 ---
